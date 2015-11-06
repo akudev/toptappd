@@ -1,2 +1,3 @@
 # toptappd
-To be done...
+
+Cordova+OpenUI5 Untappd client
